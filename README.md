@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **ericribia@gmail.com**
 
-- 📄 Know about my experiences [www.kickresume.com/cv/w5Ex18](www.kickresume.com/cv/w5Ex18)
-
 - ⚡ Fun fact **I do carpentry - (DIY)**
 
 <h3 align="left">Languages and Tools:</h3>
